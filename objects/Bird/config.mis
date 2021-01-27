@@ -1,0 +1,3 @@
+mesh bird.obj
+mesh_rotation -0.0400216 -0.973799 -0.0606775 0.215482
+flatten_threshold 0.015
